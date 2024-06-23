@@ -1,0 +1,33 @@
+body {
+    font-family: sans-serif;
+}
+nav a{
+    border-bottom:5px solid black;
+    font-size:20px;
+    text-decoration:none ;
+}
+nav{
+    text-align:center;
+}
+main img{
+    border-left:10px dotted black;
+    padding-left:30px;
+}
+main p{
+    font-size: 20px;
+    border:2px solid black;
+    border-radius:10px ;
+}
+h1{
+    text-align: center;
+}
+.mail{
+    background-color:white ;
+}
+.tel{
+   background-color:white ;
+}
+footer{
+    background-color:black ;
+    border:5px solid black;
+}
